@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp9.HorizontalStackLayoutDemo"
+             Title="HorizontalStackLayoutDemo">
+    <HorizontalStackLayout>
+        <Label BackgroundColor="Orange"
+            Text="Welcome to .NET MAUI!"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"/>
+        <Label BackgroundColor="LightBlue"
+            Text="Welcome to .NET MAUI!"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"/>
+        <Label BackgroundColor="Green"
+            Text="Welcome to .NET MAUI!"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"/>
+        <Label BackgroundColor="Violet"
+            Text="Welcome to .NET MAUI!"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"/>
+        <Label BackgroundColor="Cyan"
+            Text="Welcome to .NET MAUI!"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"/>
+    </HorizontalStackLayout>
+</ContentPage>

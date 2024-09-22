@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp9.FlexLayoutDemo"
+             Title="FlexLayoutDemo">
+    
+    <FlexLayout Margin="5" Direction="Column" JustifyContent="SpaceBetween">
+        <Button Text="Button1" HeightRequest="100" BackgroundColor="Orange"></Button>
+        <Button Text="Button2" HeightRequest="100" BackgroundColor="LightBlue"></Button>
+        <Button Text="Button3" HeightRequest="100" BackgroundColor="Pink"></Button>
+        
+    </FlexLayout>
+    
+</ContentPage>

@@ -1,0 +1,89 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiApp9
+build_property.ProjectDir = /Users/gobelmo/code/DX212/MauiApp9/MauiApp9/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/Users/gobelmo/code/DX212/MauiApp9/MauiApp9/AbsoluteLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp9.AbsoluteLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = AbsoluteLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = AbsoluteLayoutDemo.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp9/MauiApp9/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp9.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp9/MauiApp9/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp9.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp9/MauiApp9/CalculatorLayout.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp9.CalculatorLayout.xaml
+build_metadata.AdditionalFiles.TargetPath = CalculatorLayout.xaml
+build_metadata.AdditionalFiles.RelativePath = CalculatorLayout.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp9/MauiApp9/FlexLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp9.FlexLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = FlexLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = FlexLayoutDemo.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp9/MauiApp9/GridLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp9.GridLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = GridLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = GridLayoutDemo.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp9/MauiApp9/HorizontalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp9.HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = HorizontalStackLayoutDemo.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp9/MauiApp9/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp9.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp9/MauiApp9/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp9.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp9/MauiApp9/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp9.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp9/MauiApp9/StackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp9.StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = StackLayoutDemo.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp9/MauiApp9/VerticalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp9.VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = VerticalStackLayoutDemo.xaml
